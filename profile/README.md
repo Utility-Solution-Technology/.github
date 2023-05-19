@@ -1,7 +1,4 @@
 <h1 align="center">UST (Utility Solution Technology)<h1>
-<p align="center">
-  <img src='https://dont-have-image-yet' alt='Logo' width="200">
-</p>
 
 <h2 align="center">ID : C23-M4019<h2>
 
